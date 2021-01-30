@@ -1,5 +1,5 @@
 body {
-    font-size: 16px;
+    font-size: 17px;
     color: #ffffff;
     background-color: #483D8B;
     font-family: 'Josefin Sans', sans-serif;
@@ -22,24 +22,26 @@ body {
 .navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
 }
+
+#nav-list a:hover {
+    background-color: #0000ff;
+    color: #ffffff;
+}
 #nav-list a{
     color: #ffffff;
     text-shadow: 5px 5px 5px #008080;
     font-weight: bold;
     font-style: italic;
 }
-#nav-list a:hover {
-    background-color: #0000ff;
-    color: #ffffff;
-}
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #ffffff;
-}
+
 .navbar-header button.navbar-toggle {
     clear: both;
     margin-top: -30px;
     margin-bottom: 20px;
     box-shadow: 5px 5px 5px #008080;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #ffffff;
 }
 /*HEADER END*/
 /*MAIN CONTENT START*/
