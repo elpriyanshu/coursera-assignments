@@ -167,4 +167,21 @@ h1{
 	display: flex !important;
 }
 
+span{
+	margin-left: auto !important;
+	border-left:1px solid black;
+	border-bottom:1px solid black;
+	width:110px;
+	text-align:center;
+}
+
+#span1{
+	background-color:pink;  
+}
+#span2{
+	background-color:red;
+}
+#span3{
+	background-color:yellow;
+}
 
