@@ -23,23 +23,7 @@ body {
     text-decoration: none;
 }
 
-#nav-list a:hover {
-    background-color: #0000ff;
-    color: #ffffff;
-}
-#nav-list a{
-    color: #ffffff;
-    text-shadow: 5px 5px 5px #008080;
-    font-weight: bold;
-    font-style: italic;
-}
 
-.navbar-header button.navbar-toggle {
-    clear: both;
-    margin-top: -30px;
-    margin-bottom: 20px;
-    box-shadow: 5px 5px 5px #008080;
-}
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid #ffffff;
 }
