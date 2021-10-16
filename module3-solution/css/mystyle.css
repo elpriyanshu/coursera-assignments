@@ -1,24 +1,4 @@
-body {
-    font-size: 17px;
-    color: #ffffff;
-    background-color: #483D8B;
-    font-family: 'Josefin Sans', sans-serif;
-}
-/*HEADER START*/
-#header-nav {
-    border-radius: 0;
-    border: 0;
-    background-color: #708090;
-}
-.navbar-brand  h1 {
-    color: #ffffff;
-    font-weight: bold;
-    font-family: 'Orbitron', sans-serif;
-    margin: 0;
-    padding-top: 10px;
-    line-height: 0.75;
-    text-shadow: 5px 5px 5px #008080;
-}
+
 .navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
 }
