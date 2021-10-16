@@ -43,7 +43,24 @@ body {
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid #ffffff;
 }
-
+/*HEADER END*/
+/*MAIN CONTENT START*/
+h2 {
+    padding-top: 125px;
+    margin-bottom: 75px;
+    font-weight: bold;
+}
+h3 {
+    font-weight: bold;
+    font-style: italic;
+    color: #000080;
+    font-size: 1.8em;
+}
+#first, #second, #third {
+    background-color: #6A5ACD;
+    padding: 5px 15px;
+    margin-bottom: 30px;
+}
 .back a{
     color: #7FFFD4;
     text-decoration: none;
